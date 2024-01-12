@@ -1,0 +1,1 @@
+### This project features an LED matrix equipped with a central distance sensor, controlled by firmware. The matrix adjusts light intensity based on the detected distance. Additionally, the firmware incorporates diverse modes, showcasing features like facial displays, dynamic rainbow colors, and more, providing a versatile and interactive visual experience.
