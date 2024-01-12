@@ -1,0 +1,22 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+timerCounter                                                                      0x0200       4
+result                                                                            0x0204       4
+count                                                                             0x0208       4
+_seed (stdlib.lib)                                                                0x020C       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+ovf_interrupt                                                                     0x00080     26
+main                                                                              0x0009A    133
+Init_UC                                                                           0x0011F     93
